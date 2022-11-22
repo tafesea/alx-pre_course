@@ -1,5 +1,5 @@
 #!/bin/bash
-<<<<<<< HEAD
+<<<<<<<Cool, all my changes will be now part of the main branch, ready to be deployed! 
 echo "ALX School is so cool!"
 =======
 echo "ALX School"
